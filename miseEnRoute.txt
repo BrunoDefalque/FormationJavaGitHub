@@ -1,0 +1,9 @@
+1 Dans un nouveau fichier tapez
+class et choisir la 2ème option.
+
+2 entre les accolât de la fonction, tapez main Puis ENTER
+
+3 dans les accolades, après les tabulation, tapez
+sout et la possibilité de mettre entre autres chaînes de caractères
+
+4 dans le terminal, dans le fichier des exercices tapez  java nomDuFichier.java
